@@ -58,15 +58,6 @@
                 "social": "TELEGRAM"
             },
             {
-                "type": "TELEGRAM_GROUP",
-                "title": "Join Unich Telegram Group",
-                "pointReward": 60,
-                "link": "https://t.me/unich_com",
-                "claimed": false,
-                "id": "66c705f350155435d01c4bb2",
-                "social": "TELEGRAM"
-            },
-            {
                 "type": "INSTAGRAM",
                 "title": "Follow Unich Instagram",
                 "pointReward": 60,
