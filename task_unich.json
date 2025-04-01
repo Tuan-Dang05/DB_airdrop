@@ -14,11 +14,20 @@
             },
               {
                 "type": "SHARE_POST",
-                "title": "Repost and Like Unich Tweet #226",
+                "title": "Quote with hashtag '#UnichPremarket and Like Tweet #263",
                 "pointReward": 40,
-                "link": "https://x.com/RuggedRaven/status/1897950695346913435",
+                "link": "https://x.com/unich_com/status/1906288951381627259",
                 "claimed": false,
-                "id": "67cad7995078919f6dd3bc49",
+                "id": "67e93253b56410fde1f84a24",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Repost + Like Tweet and become a loyal Freedom Fam member! #266",
+                "pointReward": 50,
+                "link": "https://x.com/unich_com/status/1906986968816480600",
+                "claimed": false,
+                "id": "67eba3b23b986f3c61099942",
                 "social": "TWITTER"
             },
             {
