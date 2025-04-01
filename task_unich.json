@@ -3,6 +3,15 @@
     "message": null,
     "data": {
         "items": [
+            {
+                "type": "SHARE_POST",
+                "title": "Quote with hashtag #Unichpremarket and Like Tweet #267",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1907070836567330947",
+                "claimed": false,
+                "id": "67ebf59d32f5162ea022d69c",
+                "social": "TWITTER"
+            },
               {
                 "type": "SHARE_POST",
                 "title": "Repost and Like Unich Tweet #226",
@@ -101,71 +110,7 @@
                 "claimed": false,
                 "id": "674fd08ef10a765092881c90",
                 "social": "FACEBOOK"
-            },
-            {
-                "type": "SHARE_POST",
-                "title": "Repost and Like Unich Tweet #181",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1886964781300822354",
-                "claimed": false,
-                "id": "67a2cd875b21e597212c51f1",
-                "social": "TWITTER"
-            },
-    
-              {
-                "type": "SHARE_POST",
-                "title": "Repost and Like Unich Tweet #218",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1896527647716569551",
-                "claimed": false,
-                "id": "67c59bf1557a2a6c6c2bc71d",
-                "social": "TWITTER"
-            },
-            {
-                "type": "SHARE_POST",
-                "title": "Repost and Like Unich Tweet #224",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1897562652911829230",
-                "claimed": false,
-                "id": "67c978961d852f08b205f297",
-                "social": "TWITTER"
-            },
-            {
-                "type": "SHARE_POST",
-                "title": "Repost and Like Unich Tweet #225",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1897845730871799980",
-                "claimed": false,
-                "id": "67ca647f5078919f6dd3b941",
-                "social": "TWITTER"
-            },
-             {
-                "type": "SHARE_POST",
-                "title": "Repost and Like Unich Tweet #228",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1898673024725135761",
-                "claimed": false,
-                "id": "67cd68645078919f6dd3c25e",
-                "social": "TWITTER"
-            },
-            {
-                "type": "SHARE_POST",
-                "title": "Comment '#audited' and Like Unich Tweet #237",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1900877438504313030",
-                "claimed": false,
-                "id": "67d503339f55568bf972548d",
-                "social": "TWITTER"
-            },
-            {
-                "type": "SHARE_POST",
-                "title": "Repost and Like Unich Tweet #238",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1901163518826869098",
-                "claimed": false,
-                "id": "67d69b629f55568bf9725ae1",
-                "social": "TWITTER"
             }
-        ]
+        
     }
 }
