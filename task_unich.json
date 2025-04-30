@@ -3,31 +3,40 @@
     "message": null,
     "data": {
         "items": [
-            {
+             {
                 "type": "SHARE_POST",
-                "title": "Quote with hashtag #Unichpremarket and Like Tweet #267",
+                "title": "Quote with hashtagQuote with hashtag '#Unich - #Premarket - $AST' and Like Tweet #297",
                 "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1907070836567330947",
+                "link": "https://x.com/unich_com/status/1916489598240505978",
                 "claimed": false,
-                "id": "67ebf59d32f5162ea022d69c",
-                "social": "TWITTER"
-            },
-              {
-                "type": "SHARE_POST",
-                "title": "Quote with hashtag '#UnichPremarket and Like Tweet #263",
-                "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1906288951381627259",
-                "claimed": false,
-                "id": "67e93253b56410fde1f84a24",
+                "id": "68086058912ce29797355845",
                 "social": "TWITTER"
             },
             {
                 "type": "SHARE_POST",
-                "title": "Repost + Like Tweet and become a loyal Freedom Fam member! #266",
-                "pointReward": 50,
-                "link": "https://x.com/unich_com/status/1906986968816480600",
+                "title": "Share your thoughts on our latest partnership and Repost + Like Tweet #299",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1916789102642626933",
                 "claimed": false,
-                "id": "67eba3b23b986f3c61099942",
+                "id": "680b4dcc5a308fd2fae7a4b1",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Tag 3 friends to join the event and Repost + Like Tweet #300",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1917067399859458114",
+                "claimed": false,
+                "id": "681073b54a4c9bb97b5368d4",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Quote with hashtag '#Unich - #Premarket - $SWTCH' and Like Tweet #301",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1917124952740008295",
+                "claimed": false,
+                "id": "6810861d4a4c9bb97b536a13",
                 "social": "TWITTER"
             },
             {
