@@ -3,22 +3,31 @@
     "message": null,
     "data": {
         "items": [
-             {
+            {
                 "type": "SHARE_POST",
-                "title": "Quote with hashtagQuote with hashtag '#Unich - #Premarket - $AST' and Like Tweet #297",
+                "title": "Tag 3 friends to join the AMA and Repost + Like Tweet #309",
                 "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1916489598240505978",
-                "claimed": false,
-                "id": "68086058912ce29797355845",
+                "link": "https://x.com/unich_com/status/1920479341299052809",
+                "claimed": true,
+                "id": "681cbf300af5fb8329588760",
                 "social": "TWITTER"
             },
             {
                 "type": "SHARE_POST",
-                "title": "Share your thoughts on our latest partnership and Repost + Like Tweet #299",
+                "title": "Quote with hashtag '#Unich - #Premarket - $DOOD' and Like Tweet #310",
                 "pointReward": 40,
-                "link": "https://x.com/unich_com/status/1916789102642626933",
-                "claimed": false,
-                "id": "680b4dcc5a308fd2fae7a4b1",
+                "link": "https://x.com/unich_com/status/1920761564820603152",
+                "claimed": true,
+                "id": "681dc16d0af5fb83295888ab",
+                "social": "TWITTER"
+            },
+            {
+                "type": "SHARE_POST",
+                "title": "Like and Repost Tweet #311",
+                "pointReward": 40,
+                "link": "https://x.com/unich_com/status/1920835693267279947",
+                "claimed": true,
+                "id": "681e1c120af5fb8329588dd8",
                 "social": "TWITTER"
             },
             {
